@@ -1,0 +1,1 @@
+print(eval(input("enter calculation (e.g.,2+3*4):")))
